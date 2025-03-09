@@ -15,11 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-farë është Dizajni Grafik?
-Dizajni grafik është arti dhe praktika e planifikimit dhe projektimit të ideve dhe përmbajtjes me një qëllim komunikues vizual. Kjo perfshin përdorimin e elementeve si imazhet, ngjyrat, tipografia, ikonografia dhe grafika për të transmetuar një mesazh ose ndjenjë.
-
-Në botën moderne, dizajni grafik është thelbësor për:
-
-Ndërtimin e një imazhi profesional për një markë ose kompani.
-Komunikimin efektiv me audiencën përmes vizualizimeve kreative.
-Krijimin e përvojave të përdoruesit (UX) më të mira në platformat digjitale.
